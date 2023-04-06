@@ -1,0 +1,8 @@
+{
+    "restartable": "rs",
+    "ignore": [".git", "node_modules/", "dest/", "coverage/"],
+    "env": {
+        "NODE_ENV": "development"
+    },
+    "ext": "js, json, ts"
+}
